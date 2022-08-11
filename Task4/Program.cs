@@ -4,5 +4,5 @@ int count = 2;
 while(count <= value)
 {
     Console.WriteLine(count);
-    count + 2;
+    count = count + 2;
 }
